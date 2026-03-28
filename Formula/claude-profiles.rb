@@ -1,4 +1,4 @@
-class ClaudeProfileManager < Formula
+class ClaudeProfiles < Formula
   desc "Manage multiple Claude Code profiles"
   homepage "https://github.com/alimoeeny/claude-profiles"
   version "0.3.0"
